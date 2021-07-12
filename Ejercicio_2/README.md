@@ -6,6 +6,10 @@ el vendedor desea saber cuanto dinero obtendra por concepto de comisiones por la
 
 Solucion:
 
-leer los datos por pantalla
+leer y pedir los datos:
 salario base
 monto de la venta 1, 2 y 3
+operacion=sumar las ventas
+operacion=sacarle el 10% a las ventas
+operacion=sumar el resultado del 10% con el salario base
+mostrar en pantalla el resultado
