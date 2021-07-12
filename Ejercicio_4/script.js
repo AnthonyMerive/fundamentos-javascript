@@ -31,8 +31,9 @@ default:
     alert('el dia no pertenece a la semana');
     break;
 }
-
-//estructura para string
+//----------------------------------------------------------------------
+//estructura para caracteres
+//----------------------------------------------------------------------
 //*tolocalelowercase() coloca en minuscula el dato ingresado
 //switch(fruta.tolocalelowercase()){
     //case'mango:
@@ -43,4 +44,4 @@ default:
     //.
     //default:
     //alert('la fruta se encuentra agotada');
-}
+//}
