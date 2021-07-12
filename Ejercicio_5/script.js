@@ -23,7 +23,5 @@ else{
     desc = valComp * 0;
     alert('el color es invalido');
 }
-
-total = valcomp - desc;
-
-alert(`el cliente ${nombre} selecciono la bolita color ${bolita} y el total a pagar es de ${total}`);
+total = valComp - desc;
+alert(`el cliente ${nombre} selecciono la bolita ${bolita} y el total que debe pagar es de $${total}`);
